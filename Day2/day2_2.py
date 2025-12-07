@@ -1,6 +1,6 @@
 total = 0
 
-with open("day2_1_data.txt", "r") as f:
+with open("day2_data.txt", "r") as f:
     for line in f:
         parts = line.strip().split(",")
         
